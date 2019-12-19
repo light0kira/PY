@@ -1,0 +1,1 @@
+C:/Users/Salman/AppData/Local/Enthought/Canopy/edm/envs/User/python.exe "e:/College/5th SEM/Python Lab/Python lab/10c.py"
